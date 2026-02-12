@@ -29,7 +29,7 @@ export default function SurpriseFlow({ onComplete }: { onComplete: () => void })
             transition={{ delay: 0.35, duration: 0.6 }}
           >
             <Image
-              src="/pho1.jpg"
+              src="/lov.jpg"
               alt="My Love"
               width={200}
               height={200}
